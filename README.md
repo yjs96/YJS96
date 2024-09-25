@@ -3,15 +3,11 @@
 **2023** 삼성 청년 SW 아카데미(SSAFY) 9기<br>
 
 ### Projects
-- SSAFY 자율 프로젝트 환경
-<a href="https://github.com/We-Eokam/Ea-ra"><img src="https://img.shields.io/badge/어라%20레포지토리-000000?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://lemonade-log.notion.site/38aa0b3d39b948e8aac676cb81f86f50?v=b0a1bfa1a8c048c1b01986e233ea6772&pvs=4"><img src="https://img.shields.io/badge/팀%20어캄%20Wiki-000000?style=flat-square&logo=notion&logoColor=white"/></a>
-- SSAFY 특화 프로젝트 핀테크 트랙 (🏆우수상 - 10개 팀 중 1위)
-<a href="https://github.com/doHuick/H-uick/tree/master"><img src="https://img.shields.io/badge/Huick%20레포지토리-000000?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://lemonade-log.notion.site/d5dbe681c64b445cb95b81abe46e449e?v=8c62ac358f3044bd80bf3909e75b622f&pvs=4"><img src="https://img.shields.io/badge/팀%20했다치고%20Wiki-000000?style=flat-square&logo=notion&logoColor=white"/></a>
-- SSAFY 공통 프로젝트 웹디자인 트랙 (🏆우수상 - 10개 팀 중 1위)
-<a href="https://github.com/popping-ashe"><img src="https://img.shields.io/badge/Popping%20레포지토리-000000?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://quiet-unicorn-5ea.notion.site/ASHE-c88c2a32da8d470f98873c54d61d8b97"><img src="https://img.shields.io/badge/팀%20ASHE%20Wiki-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+|프로젝트명|레포지토리|노션위키|수상|
+|---|---|---|---|
+|SSAFY 자율 프로젝트 환경|<a href="https://github.com/We-Eokam/Ea-ra"><img src="https://img.shields.io/badge/어라%20레포지토리-000000?style=flat-square&logo=github&logoColor=white"/></a>|<a href="https://lemonade-log.notion.site/38aa0b3d39b948e8aac676cb81f86f50?v=b0a1bfa1a8c048c1b01986e233ea6772&pvs=4"><img src="https://img.shields.io/badge/팀%20어캄%20Wiki-000000?style=flat-square&logo=notion&logoColor=white"/></a>|-|
+|SSAFY 특화 프로젝트 핀테크 트랙|<a href="https://github.com/doHuick/H-uick/tree/master"><img src="https://img.shields.io/badge/Huick%20레포지토리-000000?style=flat-square&logo=github&logoColor=white"/></a>|<a href="https://lemonade-log.notion.site/d5dbe681c64b445cb95b81abe46e449e?v=8c62ac358f3044bd80bf3909e75b622f&pvs=4"><img src="https://img.shields.io/badge/팀%20했다치고%20Wiki-000000?style=flat-square&logo=notion&logoColor=white"/></a>|🏆우수상 - 10개 팀 중 1위|
+|SSAFY 공통 프로젝트 웹디자인 트랙|<a href="https://github.com/popping-ashe"><img src="https://img.shields.io/badge/Popping%20레포지토리-000000?style=flat-square&logo=github&logoColor=white"/></a>|<a href="https://quiet-unicorn-5ea.notion.site/ASHE-c88c2a32da8d470f98873c54d61d8b97"><img src="https://img.shields.io/badge/팀%20ASHE%20Wiki-000000?style=flat-square&logo=notion&logoColor=white"/></a>|🏆우수상 - 10개 팀 중 1위|
 <br>
 
 📋 **Language**<br>
