@@ -1,6 +1,7 @@
 ## Joonsu YIM
 **2024** 국민은행 KB IT's Your Life 5기<br>
 **2023** 삼성 청년 SW 아카데미(SSAFY) 9기<br>
+**2022** 홍익대학교 전자전기공학부 졸업<br>
 
 ### Projects
 |프로젝트명|레포지토리|수상|
