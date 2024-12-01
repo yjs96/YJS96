@@ -6,11 +6,11 @@
 ### Projects
 |프로젝트명|레포지토리|수상|
 |---|---|---|
-|KB IT's Your Life 해커톤|<a href="https://github.com/MoonHyoMan"><img src="https://img.shields.io/badge/문효만%20레포지토리-000000?style=flat-square&logo=github&logoColor=white"/></a>|🏆아이디어상|
-|KB IT's Your Life 종합실무 프로젝트|<a href="https://github.com/P1-3-kbAnk"><img src="https://img.shields.io/badge/KBank%20레포지토리-000000?style=flat-square&logo=github&logoColor=white"/></a>|🏆최우수상|
-|SSAFY 자율 프로젝트 환경|<a href="https://github.com/We-Eokam/Ea-ra"><img src="https://img.shields.io/badge/어라%20레포지토리-000000?style=flat-square&logo=github&logoColor=white"/></a>|-|
-|SSAFY 특화 프로젝트 핀테크 트랙|<a href="https://github.com/doHuick/H-uick/tree/master"><img src="https://img.shields.io/badge/Huick%20레포지토리-000000?style=flat-square&logo=github&logoColor=white"/></a>|🏆우수상 - 10개 팀 중 1위|
-|SSAFY 공통 프로젝트 웹디자인 트랙|<a href="https://github.com/popping-ashe"><img src="https://img.shields.io/badge/Popping%20레포지토리-000000?style=flat-square&logo=github&logoColor=white"/></a>|🏆우수상 - 10개 팀 중 1위|
+|KB IT's Your Life 해커톤|<a href="https://github.com/MoonHyoMan"><img src="https://img.shields.io/badge/주세요-000000?style=flat-square&logo=github&logoColor=white"/></a>|🏆아이디어상|
+|KB IT's Your Life 종합실무 프로젝트|<a href="https://github.com/P1-3-kbAnk"><img src="https://img.shields.io/badge/방갑다-000000?style=flat-square&logo=github&logoColor=white"/></a>|🏆최우수상|
+|SSAFY 자율 프로젝트 환경|<a href="https://github.com/We-Eokam/Ea-ra"><img src="https://img.shields.io/badge/어라-000000?style=flat-square&logo=github&logoColor=white"/></a>|-|
+|SSAFY 특화 프로젝트 핀테크 트랙|<a href="https://github.com/doHuick/H-uick/tree/master"><img src="https://img.shields.io/badge/Huick-000000?style=flat-square&logo=github&logoColor=white"/></a>|🏆우수상 - 10개 팀 중 1위|
+|SSAFY 공통 프로젝트 웹디자인 트랙|<a href="https://github.com/popping-ashe"><img src="https://img.shields.io/badge/Popping-000000?style=flat-square&logo=github&logoColor=white"/></a>|🏆우수상 - 10개 팀 중 1위|
 <br>
 
 📋 **Language**<br>
